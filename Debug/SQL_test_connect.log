@@ -1,0 +1,9 @@
+﻿  Module.ixx
+D:\coding\DevKinetics\SQL_test_connect\Module.ixx(1,1): error C3378: a declaration can be exported only from a module interface unit
+D:\coding\DevKinetics\SQL_test_connect\Module.ixx(1,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\coding\DevKinetics\SQL_test_connect\Module.ixx(1,15): error C2146: syntax error: missing ';' before identifier 'Module'
+D:\coding\DevKinetics\SQL_test_connect\Module.ixx(3,1): error C3378: a declaration can be exported only from a module interface unit
+  odbcsql.cpp
+D:\coding\DevKinetics\SQL_test_connect\odbcsql.cpp(141,26): error C2440: '=': cannot convert from 'const wchar_t [1]' to 'WCHAR *'
+D:\coding\DevKinetics\SQL_test_connect\odbcsql.cpp(141,23): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  Generating Code...
