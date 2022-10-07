@@ -153,9 +153,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="queries.h" />
-    <ClInclude Include="query_headers.h" />
     <ClInclude Include="Table.hpp" />
     <ClInclude Include="UserQueries.h" />
+    <ClInclude Include="usersql.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

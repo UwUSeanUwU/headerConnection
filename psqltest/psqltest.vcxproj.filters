@@ -29,13 +29,13 @@
     <ClInclude Include="Table.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="query_headers.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="queries.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="UserQueries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="usersql.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

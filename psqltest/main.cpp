@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
-#include "query_headers.h"
-#include "UserQueries.h"
+#include "usersql.h"
 
 int main() {
 	
